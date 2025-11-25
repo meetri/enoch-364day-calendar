@@ -111,7 +111,7 @@ Three-parameter grid search examining:
 
 ```bash
 # Clone the repository
-git clone https://github.com/meetri/enoch-calendar.git
+git clone https://github.com/meetri/enoch-364day-calendar.git
 cd enoch-calendar/code
 
 # Create virtual environment
