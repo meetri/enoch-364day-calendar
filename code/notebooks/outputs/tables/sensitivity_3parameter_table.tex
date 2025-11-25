@@ -1,0 +1,28 @@
+
+\begin{table}[htbp]
+\centering
+\caption{3-Parameter Sensitivity Analysis Results}
+\label{tab:sensitivity_3param}
+\begin{tabular}{@{}lcc@{}}
+\toprule
+Parameter & Range & Sensitivity Index \\
+\midrule
+Vernal offset & 0--364 days & nan \\
+Correction period & 290--298 days & nan \\
+Calendar year & 360--368 days & nan \\
+
+\midrule
+\multicolumn{3}{@{}l}{\textbf{Bounded Region Statistics}} \\
+Dynamically bounded & \multicolumn{2}{c}{100.0\%} \\
+Calendar acceptable ($\leq 15^\circ$) & \multicolumn{2}{c}{0.0\%} \\
+Both criteria & \multicolumn{2}{c}{0.0\%} \\
+
+\midrule
+\multicolumn{3}{@{}l}{\textbf{Amplitude Statistics}} \\
+Mean amplitude & \multicolumn{2}{c}{3957.46$^\circ$} \\
+Std deviation & \multicolumn{2}{c}{1571.97$^\circ$} \\
+Earth (294/364) & \multicolumn{2}{c}{254.24$^\circ$ if summary['earth_mean_amplitude'] else 'N/A'} \\
+
+\bottomrule
+\end{tabular}
+\end{table}

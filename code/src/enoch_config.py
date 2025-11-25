@@ -1,0 +1,1 @@
+SWISS_EPH_PATH = "/Users/meetri/dev/apps/python/enoch-notebooks/ephe"

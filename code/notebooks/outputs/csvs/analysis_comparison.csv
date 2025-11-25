@@ -1,0 +1,4 @@
+Analysis,Parameter Varied,Range/Distribution,Test Cases,Dynamically Bounded,Calendar Acceptable (≤15°),Key Insight
+Parametric Sweep,Tropical year (global),350-380 days (uniform),"3,000",100.0%,0.067%,Global rarity
+MC Robustness,Tropical year (local),"N(365.24, 0.05²)","10,000",100.0%,12.3%,Earth-local peak
+3-Parameter Sensitivity,Design parameters,U(vernal/correction/calendar),"10,000",100.0%,1.2%,Calendar year critical

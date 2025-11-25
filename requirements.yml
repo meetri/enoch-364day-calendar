@@ -1,0 +1,27 @@
+name: enoch
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyterlab==4.4.9
+  - pandas==2.3.3
+  - pytorch
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - joblib
+  - tqdm
+  - pip
+  - pip:
+    - pyswisseph==2.10.3.2
+    - poliastro
+    - astroquery
+    - nasapy
+    - spiceypy
+    - dotenv
+    - ripser
+    - persim
+

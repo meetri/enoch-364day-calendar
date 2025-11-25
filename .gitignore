@@ -1,0 +1,87 @@
+.virtual_documents/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv
+
+# Conda
+.conda/
+
+# Swiss Ephemeris Data Files (too large for git - 2.6GB)
+ephe/*.eph
+ephe/*.se1
+ephe/sat/
+
+# Keep ephemeris directory structure but not data files
+!ephe/.gitkeep
+!ephe/README.md
+
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bcf
+*.run.xml
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Don't ignore important output files
+!code/datasets/*.csv
+!code/diagrams/*.png
+!code/diagrams/*.pdf
+

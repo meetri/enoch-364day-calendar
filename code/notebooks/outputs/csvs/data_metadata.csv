@@ -1,0 +1,2 @@
+n_points,year_min,year_max,year_span,sampling_rate_median,sampling_rate_mean,sampling_rate_std,n_gaps,max_gap,ecliptic_min,ecliptic_max,ecliptic_mean,ecliptic_std,ecliptic_range
+29400,-12762,16636,29398,1.0,0.9999659852375932,0.0822735471580384,99,2,-2.5342615310020165,5.10802758007824,0.15166942455729862,1.5697592200259889,7.642289111080257
