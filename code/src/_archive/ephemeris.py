@@ -15,7 +15,7 @@ import pandas as pd
 import os
 from pathlib import Path
 from typing import Optional
-from .enoch_config import SWISS_EPH_PATH
+from src.enoch_config import SWISS_EPH_PATH
 
 try:
     import swisseph as swe
