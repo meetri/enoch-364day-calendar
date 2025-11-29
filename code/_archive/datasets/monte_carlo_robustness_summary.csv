@@ -1,2 +1,0 @@
-num_trials,n_bounded_90deg,n_bounded_strict,n_dynamically_bounded,n_both_strict,prop_bounded_90deg,prop_bounded_strict,prop_dynamically_bounded,prop_both_strict,amplitude_mean,amplitude_std,amplitude_median,amplitude_min,amplitude_max,year_mean_sampled,year_std_sampled,coupling_strength_mean,top3_error_mean
-10000,9125,1230,10000,1230,0.9125,0.123,1.0,0.123,46.13811711437399,29.435590045187755,39.78234534594216,7.486135333069585,221.66947167180902,365.2431823916249,0.049604660679320574,24.394683573397757,0.046333947619269504

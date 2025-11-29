@@ -1,2 +1,0 @@
-n_total,n_bounded_90deg,n_bounded_strict,n_dynamically_bounded,n_both_strict,prop_bounded_90deg,prop_bounded_strict,prop_dynamically_bounded,prop_both_strict,amplitude_mean,amplitude_std,amplitude_median,amplitude_min,amplitude_max,vernal_mean,correction_mean,calendar_mean,coupling_strength_mean,top3_error_mean,earth_mean_amplitude
-10000,23,0,10000,0,0.0023,0.0,1.0,0.0,3957.4609534248425,1571.9720472283504,5000.0,20.76901575471204,5000.0,182.5758687737076,293.9966028860651,363.98065928892044,21.460151153071156,0.04659799424837185,254.24453218298072
